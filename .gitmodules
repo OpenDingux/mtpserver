@@ -1,0 +1,6 @@
+[submodule "mtp"]
+	path = mtp
+	url = bzr::lp:mtp
+[submodule "core"]
+	path = core
+	url = https://android.googlesource.com/platform/system/core.git
